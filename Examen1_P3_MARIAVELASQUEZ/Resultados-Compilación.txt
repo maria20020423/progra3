@@ -1,0 +1,9 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: Proyecto: LAB5_EXAMEN1_MARIAVELASQEUZ, configuración: Debug x64 ------
+1>LAB5_EXAMEN1_MARIAVELASQEUZ.cpp
+1>Numero.cpp
+1>Rectangulo.cpp
+1>Generando código...
+1>LAB5_EXAMEN1_MARIAVELASQEUZ.vcxproj -> C:\Users\milagro\Documents\universidad\11 trimestre\lab progra3\Examen1_P3_MARIAVELASQEUZ\x64\Debug\LAB5_EXAMEN1_MARIAVELASQEUZ.exe
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========= Compilar se inició en 2:27 PM y tomó 05.856 segundos ==========
